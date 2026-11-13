@@ -2858,6 +2858,7 @@
       "features": [
         "scroll-snap",
         "scroll-behavior",
+        "overscroll-behavior",
         "scrollend",
         "scroll-snap-events",
         "scroll-driven-animations",

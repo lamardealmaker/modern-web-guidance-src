@@ -818,6 +818,7 @@ window.__featuresMapping = {
   "carousel": [
     "scroll-snap",
     "scroll-behavior",
+    "overscroll-behavior",
     "scrollend",
     "scroll-snap-events",
     "scroll-driven-animations",
@@ -1091,7 +1092,7 @@ window.__featuresMapping = {
     "border-shape",
     "corner-shape",
     "border-radius",
-    "tmp-polygon-round"
+    "shapes-polygon-round"
   ],
   "equal-width-text-lines": [
     "text-fit",
